@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "map.h"
 
 int main() {
-    printf("cedric \n");
+    generateMapEmpty(30,25);
     return 0;
 }

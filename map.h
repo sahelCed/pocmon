@@ -1,0 +1,1 @@
+int **generateMapEmpty(int rows, int cols);
